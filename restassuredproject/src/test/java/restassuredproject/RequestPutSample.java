@@ -11,7 +11,7 @@ public class RequestPutSample {
 	@Test
 	public void SamplePutExample() {
 		
-		
+		//Test_RestAssured
 		JSONObject jsonobject = new JSONObject();
 		jsonobject.put("name", "rach");
 		jsonobject.put("sex", "male");
