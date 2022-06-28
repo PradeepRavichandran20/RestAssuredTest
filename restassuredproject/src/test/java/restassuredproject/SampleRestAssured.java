@@ -16,7 +16,8 @@ public class SampleRestAssured {
 		
 		System.out.println(statusCode);
 		System.out.println(statusline);
-		
+		System.out.println("Tesr");
+
 
 	}
 
